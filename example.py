@@ -1,0 +1,1 @@
+contacts = {"my brother":{"phone":"+234 909 640 3929"},"my mom":{"phone":"+234 817 239 3703"},"my dad":{"phone":"+1 (236) 591-2494"},"my teacher":{"phone":"+234 703 306 7747"},"my mentor":{"phone":"+234 704 016 0012"}}
